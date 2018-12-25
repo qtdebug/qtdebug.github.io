@@ -1,1 +1,0 @@
-# qtdebug.github.io
